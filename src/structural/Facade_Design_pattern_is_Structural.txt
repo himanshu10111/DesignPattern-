@@ -1,0 +1,4 @@
+Facade Design pattern is Structural Design pattern 
+
+It is used when there are multiple interfcaes of similar kind of jobs then we add a Facade interface which provide better Interfce to these interfaces and clients.
+it Basically help to routing to related interface.
